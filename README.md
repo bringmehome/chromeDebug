@@ -37,3 +37,7 @@ function openchromelog() {
 ![](./img/14.png)
 
 ![](./img/15.png)
+
+<br/>
+<br/>
+4、如果还有问题的话，请联系作者(sin@feeling.life)
